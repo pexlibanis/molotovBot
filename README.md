@@ -5,10 +5,10 @@ A project made will eating pasta.
 --------------------------------
 Requirements
 ------------
-[Python Twitter](https://github.com/bear/python-twitter).
-[Python](http://www.python.org/)
-Valid twitter account and credentials 
-See [here](https://dev.twitter.com) 
+[Python Twitter](https://github.com/bear/python-twitter)  
+[Python](http://www.python.org/)  
+Valid twitter account and credentials  
+See [here](https://dev.twitter.com)  
 
 History
 -------
