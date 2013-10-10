@@ -21,4 +21,6 @@ patch them yourself as well.
 
 Shoutouts
 ---------
-To [giopso](https://twitter.com/giopso) for the initial idea.
+To [giopso](https://twitter.com/giopso) for the initial idea.  
+To [petroula](https://twitter.com/petroulasep). She highlighted some typos.
+
