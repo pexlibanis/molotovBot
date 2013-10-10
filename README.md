@@ -1,7 +1,7 @@
 molotovBot
 ==========
 
-A project made will eating pasta.
+A project made while eating pasta.
 --------------------------------
 Requirements
 ------------
